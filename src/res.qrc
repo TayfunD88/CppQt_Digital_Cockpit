@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Ellipse_Silver_Ring.png</file>
+        <file>main.qml</file>
+        <file>Ellipse_Red_Needle.png</file>
+        <file>Ellipse_Gray_Background.png</file>
+        <file>White_Needles.png</file>
+        <file>Red_Needle.png</file>
+        <file>Righteous-Regular.ttf</file>
+        <file>Speedometer.qml</file>
+        <file>logic.js</file>
+        <file>Tachometer.qml</file>
+        <file>Tachometer_Needles.png</file>
+        <file>Tachometer_Unit_RPMx1000.png</file>
+        <file>Fuel_Tank.png</file>
+        <file>Street.png</file>
+        <file>Gear.png</file>
+        <file>FuelTank.qml</file>
+        <file>reverseCam.PNG</file>
+    </qresource>
+</RCC>
