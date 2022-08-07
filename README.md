@@ -15,4 +15,19 @@ This project also includes custom fonts that need to be manually installed befor
 
 ![DC1](img/digital_cockpit_01.PNG)
 
+## Keybindings
+
+Keybindings for the digital car-cockpit simulator.
+
+|Key|Action|
+|---|---|
+|**S**|Start/Stop Engine|
+|**Spacebar**|Accelerate|
+|**D**|Switch to Drive Mode|
+|**N**|Switch to Idel Mode|
+|**R**|Toggle Reverse Camera|
+|**P**|Switch to Parking Mode|
+|**T**|Drive at current velocity|
+|**F**|Fill Tank|
+|**ArrowDown**| Brake|
 
