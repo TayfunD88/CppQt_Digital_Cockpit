@@ -13,6 +13,6 @@ In order to compile and run this project you will need a necessary Qt-Component:
 This project also includes custom fonts that need to be manually installed beforehand.
 (Note: Qt will use the default font if the custom font is not installed on your device.)
 
-![DC1](httos://github.com/TayfunD88/CppQt_Digital_Cockpit/blob/master/img/digital_cockpit_01.PNG)
+![DC1](httos://github.com/TayfunD88/CppQt_Digital_Cockpit/img/digital_cockpit_01.PNG)
 
 
